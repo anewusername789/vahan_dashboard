@@ -8,7 +8,7 @@ Trends & Growth: Interactive line and bar charts with Plotly
 Analytics: QoQ (Quarter-over-Quarter) and YoY (Year-over-Year) growth for categories and manufacturers
 Investor Insights: Quickly spot which segments and OEMs are gaining momentum
 
-🛠 Tech Stack
+ Tech Stack
 Python (pandas, numpy)
 Streamlit (UI & deployment)
 Plotly (charts & visuals)
@@ -18,3 +18,4 @@ Setup Instructions (clone → pip install -r requirements.txt → streamlit run 
 Data Assumptions (using sample CSV, structure explained)
 
 Future Roadmap (scraping real VAHAN data, adding export, etc.)
+
